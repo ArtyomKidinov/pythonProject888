@@ -1,2 +1,2 @@
-aaaa
-f
+def test():
+    print("a")
